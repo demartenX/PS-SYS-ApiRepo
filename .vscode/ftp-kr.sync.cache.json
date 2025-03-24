@@ -1,0 +1,120 @@
+{
+  "ftp://fx-electronics.pl@fxelectr": {
+    ".appdata": {},
+    "application_backups": {},
+    "backups": {},
+    ".bash_history": {
+      "type": "-",
+      "size": 2909,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bash_logout": {
+      "type": "-",
+      "size": 18,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bash_profile": {
+      "type": "-",
+      "size": 185,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bashrc": {
+      "type": "-",
+      "size": 376,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".cagefs": {},
+    ".cl.selector": {},
+    ".clwpos": {},
+    ".config": {},
+    "domains": {},
+    "fx_mail": {
+      "type": "-",
+      "size": 16,
+      "lmtime": 0,
+      "modified": false
+    },
+    "google90075d41dbf83934.html": {
+      "type": "-",
+      "size": 53,
+      "lmtime": 0,
+      "modified": false
+    },
+    "imap": {},
+    "index.html": {
+      "type": "-",
+      "size": 5611,
+      "lmtime": 0,
+      "modified": false
+    },
+    "index.php": {
+      "type": "-",
+      "size": 590,
+      "lmtime": 0,
+      "modified": false
+    },
+    "lscache": {},
+    ".lsphp_restart.txt": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".lvestats": {},
+    "Maildir": {},
+    ".php": {},
+    "public_html": {
+      "type": "l",
+      "size": 39,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".pyzor": {},
+    ".razor": {},
+    "scan-202209141430.txt": {
+      "type": "-",
+      "size": 272,
+      "lmtime": 0,
+      "modified": false
+    },
+    "scan-202305020855.txt": {
+      "type": "-",
+      "size": 476,
+      "lmtime": 0,
+      "modified": false
+    },
+    "scan-202305031200.txt": {
+      "type": "-",
+      "size": 476,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".shadow": {
+      "type": "-",
+      "size": 98,
+      "lmtime": 0,
+      "modified": false
+    },
+    "skins": {},
+    ".softaculous": {},
+    ".spamassassin": {},
+    "tmp": {},
+    "wynik_zadaniaa.txt": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".zshrc": {
+      "type": "-",
+      "size": 658,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}

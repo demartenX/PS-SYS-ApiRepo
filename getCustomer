@@ -1,0 +1,4 @@
+<?php
+
+$order = getFromPrestaShopAPI("customers/$order['order']['id_customer']");
+?>

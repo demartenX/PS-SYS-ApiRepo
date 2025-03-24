@@ -1,0 +1,16 @@
+{
+    "host": "fx-electronics.pl",
+    "username": "fxelectr",
+    "password": "Kore2Duo22@",
+    "remotePath": "/domains/fx-electronics.pl/public_html/mar/",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+} 
